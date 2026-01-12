@@ -4,4 +4,4 @@
 
 主要是RE
 
-![Cyrene](.\attachment\Cyrene.png)
+![Cyrene](attachment/Cyrene.png)
